@@ -1,0 +1,10 @@
+"Introduction C++"
+
+*C++ is a high-performance, general-purpose programming language.
+*supports both procedural and object-oriented programming paradigms.
+*Developed by Bjarne Stroustrup at Bell Laboratories in the early 1980s.
+*Main feature is OOP.
+
+"Notable Points"
+File extension = Typically uses .cpp, .cc, or .cxx
+C++23	Improved constexpr, extended STL, deduced this
